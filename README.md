@@ -5,11 +5,12 @@
 
 ## 실행 방법 
 1. git clone
-   ``` git clone https://github.com/TwitFilterProject/TFP-ResNet-Violence.git```
+   
+   ```git clone https://github.com/TwitFilterProject/TFP-ResNet-Violence.git```
 3. ResNet_폭력, 비폭력 이미지 이진 분류 모델 구현.ipynb 코랩에서 실행
   
 ## 모델 학습부터 실행하는 경우,
-- **3. 데이터셋 다운로드**: violence-detection-2024(https://github.com/TwitFilterProject/TFP-ResNet-Violence/edit/main/README.md) 데이터셋 다운로드
+- **3. 데이터셋 다운로드**: violence-detection-2024(https://drive.google.com/file/d/10Ub2l3x5LcJ_iJAR4lRskDRTc-DGO-uc/view?usp=sharing) 데이터셋 다운로드
   
 - **4. 실행 코랩 링크 접속**: 구글 드라이브에 데이터셋 업로드 후 코랩과 드라이브 데이터 연동
   
