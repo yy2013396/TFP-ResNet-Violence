@@ -7,12 +7,12 @@
 1. git clone
    
    ```git clone https://github.com/TwitFilterProject/TFP-ResNet-Violence.git```
-3. ResNet_폭력, 비폭력 이미지 이진 분류 모델 구현.ipynb 코랩에서 실행
+2. ResNet_폭력, 비폭력 이미지 이진 분류 모델 구현.ipynb 코랩에서 실행
   
 ## 모델 학습부터 실행하는 경우,
-- **3. 데이터셋 다운로드**: violence-detection-2024(https://drive.google.com/file/d/10Ub2l3x5LcJ_iJAR4lRskDRTc-DGO-uc/view?usp=sharing) 데이터셋 다운로드
+- **3. 데이터셋 다운로드**: violence-detection-2024(https://www.kaggle.com/datasets/kotb14/violence-detection-2024) 데이터셋 압축 파일 다운로드, 구글 드라이브 '/gdrive/MyDrive/' 해당 경로에 압축 파일 저장
   
-- **4. 실행 코랩 링크 접속**: 구글 드라이브에 데이터셋 업로드 후 코랩과 드라이브 데이터 연동
+- **4. 코랩 접속**: 코랩 접속 후 ResNet_폭력, 비폭력 이미지 이진 분류 모델 구현.ipynb 업로드
   
 - **5. 런타임 실행**
 
@@ -22,9 +22,9 @@
 - **3. Model download Link**: https://drive.google.com/file/d/10Ub2l3x5LcJ_iJAR4lRskDRTc-DGO-uc/view?usp=sharing
   (깃허브의 대용량 파일 업로드 제한으로 구글 드라이브 링크를 통해 다운로드 해야 합니다.)
   
-- **4.구글 드라이브에 모델 저장**: violence_model.h5 한 개의 모델 실행 
+- **4.구글 드라이브에 모델 저장**: violence_model.h5 구글 드라이브 '/gdrive/MyDrive/violence_model.h5' 해당 경로에 저장
 
-- **5. 실행 코랩 링크 접속**: '저장된 모델 로드, 예측 실행' 타이틀 아래 셀 실행 
+- **5. 실행 코랩 링크 접속**: '저장된 모델 로드, 예측 실행' 타이틀 아래 셀 런타임 실행
 
 
 <br>
