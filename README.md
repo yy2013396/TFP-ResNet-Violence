@@ -59,9 +59,6 @@
 ### loss, accuracy
 ![image](https://github.com/TwitFilterProject/TFP-ResNet-Violence/assets/109844803/ba110bd4-52c0-42f7-8271-09d099953828)
 
-### f1-score
-![image](https://github.com/TwitFilterProject/TFP-Bert-Sexual/assets/109844803/6a4e1af6-7ff4-468d-8d2d-45c21371daf2)
-
 ## Classification Report
 
 | Class        | Precision | Recall | F1-Score | Support |
