@@ -107,7 +107,7 @@ Epoch가 증가할수록 학습 정확도가 증가하여 0.95라는 높은 정�
 
 ****
 BSD-3-Clause
-- Copyright 2024 전유정
+- Copyright 2024 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -121,7 +121,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” 
 ***
 Apache License 2.0
 
-opyright 2024 전유정
+opyright 2024 
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -137,7 +137,7 @@ limitations under the License.
 ***
 MIT License
 
-Copyright (c) 2024 전유정
+Copyright (c) 2024 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
