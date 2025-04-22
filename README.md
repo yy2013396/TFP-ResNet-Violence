@@ -1,6 +1,6 @@
 # TFP-ResNet-Violence
 
-## ResNetV152를 사용한 선정적, 폭력 이미지 분류 모델 - 전유정 
+## ResNetV152를 사용한 선정적, 폭력 이미지 분류 모델 
 
 
 ## 실행 방법 
